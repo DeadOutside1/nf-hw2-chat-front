@@ -1,5 +1,3 @@
-# nf-hw2-chat-front
-
 # NF-HW2-CHAT-FRONT
 
 ## Overview
